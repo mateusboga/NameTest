@@ -1,5 +1,6 @@
 body {
 	background: url(bg1.png) #333;
+	font-family: arial;
 }
 #wrapper {
 	position: absolute;
