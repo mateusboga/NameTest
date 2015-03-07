@@ -13,3 +13,9 @@ body {
 	height: 54px;
 	background: #889;
 }
+#namearea {
+	position: absolute;
+	top: 54px; bottom: 0%; left: 0%; right: 0%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
