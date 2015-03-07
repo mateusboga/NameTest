@@ -1,3 +1,3 @@
-var Word = "Test", Box = document.getElementById('textbox').innerHTML;
+var Word = "Test", Box = document.getElementById('textbox');
 
-Box = Word;
+Box.innerHTML = Word;
