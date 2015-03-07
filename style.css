@@ -1,8 +1,15 @@
 body {
 	background: url(bg1.png) #333;
 	font-family: arial;
+	color: #fff;
 }
 #wrapper {
 	position: absolute;
-	top: 0px; bottom: 0px; left: 0px; right: 0px; 
+	top: 0px; bottom: 0px; left: 0px; right: 0px;
+}
+#topbar {
+	position: absolute;
+	top: 0%; left: 0%; right: 0%;
+	height: 54px;
+	background: #889;
 }
