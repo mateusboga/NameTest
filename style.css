@@ -1,0 +1,7 @@
+body {
+	background: url(bg1.png) #333;
+}
+#wrapper {
+	position: absolute;
+	top: 0px; bottom: 0px; left: 0px; right: 0px; 
+}
