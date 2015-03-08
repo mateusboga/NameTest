@@ -1,5 +1,4 @@
 
-Word = "Testreon";
-Box = document.getElementById('textbox');
+var Word = "Testreon", Box = document.getElementById('textbox');
 
-Box.value = Word;
+var loadname = function(){ Box.value = Word; }
