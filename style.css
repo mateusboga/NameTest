@@ -16,9 +16,11 @@ body {
 #namearea {
 	position: absolute;
 	top: 54px; bottom: 0%; left: 0%; right: 0%;
-	padding-left: auto;
-	padding-right: auto;
-	width: 100%;
+	text-align: center;
 	overflow-x: hidden;
 	overflow-y: auto;
+}
+.center {
+	padding-left: auto;
+	padding-right: auto;
 }
